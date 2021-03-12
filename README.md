@@ -1,6 +1,5 @@
 # Siete y media: Juego de naipes español
-## Por Eduardo Martínez Romero ([edumarrom](https://github.com/edumarrom/) en GitHub )
-Es el primer juego que escribo en Python mediante la programación orientada a objetos. No está completamente pulido, y advierto que habrá más de un "gazapo", tanto a la hora de funcionar como en la forma en que ha sido escrito. El objetivo de escribir este juego era poner en práctica la materia estudiada en el segundo trimestre del módulo de programación del primer curso en Desarrollo de Aplicaciones Web.
+Se trata del primer juego que escribo en Python mediante la programación orientada a objetos. No está completamente pulido, y advierto que habrá más de un "gazapo", tanto a la hora de funcionar como en la forma en que ha sido escrito. El objetivo de escribir este juego era poner en práctica la materia estudiada en el segundo trimestre del módulo de programación del primer curso en Desarrollo de Aplicaciones Web.
 
 ### Sobre el juego:
 Las siete y media es un juego de naipes español que consiste en obtener siete puntos y medio, o acercarse a ello lo más posible. Las cartas valen tantos puntos como su valor facial, excepto las figuras, que valen medio punto.
@@ -20,3 +19,5 @@ Clona el repositorio y ejecuta el módulo *principal.py*.
 - [Baraja española (wikipedia.org)](https://es.wikipedia.org/wiki/Baraja_espa%C3%B1ola)
 - [Riffle shuffle permutation (wikipedia.org)](https://en.wikipedia.org/wiki/Riffle_shuffle_permutation)
 - [Shuffling (wikipedia.org)](https://en.wikipedia.org/wiki/Shuffling)
+
+### Realizado por Eduardo Martínez Romero ([edumarrom](https://github.com/edumarrom/) en GitHub )
